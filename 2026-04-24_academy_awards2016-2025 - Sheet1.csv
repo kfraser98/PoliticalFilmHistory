@@ -1,0 +1,344 @@
+Source,Year,Ceremony,Category,Nominee (Person),Nominee (Film),Winner
+oscars,2016,89th,Actor in a Leading Role ,Casey Affleck,Manchester by the Sea,TRUE
+oscars,2016,89th,Actor in a Leading Role ,Andrew Garfield,Hacksaw Ridge,FALSE
+oscars,2016,89th,Actor in a Leading Role ,Ryan Gosling,La La Land,FALSE
+oscars,2016,89th,Actor in a Leading Role ,Viggo Mortensen,Captain Fantastic,FALSE
+oscars,2016,89th,Actor in a Leading Role ,Denzel Washington,Fences,FALSE
+oscars,2016,89th,Actress in a Leading Role,Isabelle Huppert,Elle,FALSE
+oscars,2016,89th,Actress in a Leading Role,Ruth Negga,Loving,FALSE
+oscars,2016,89th,Actress in a Leading Role,Natalie Portman,Jackie,FALSE
+oscars,2016,89th,Actress in a Leading Role,Emma Stone,La La Land,TRUE
+oscars,2016,89th,Actress in a Leading Role,Meryl Streep,Florence Foster Jenkins,FALSE
+oscars,2016,89th,Directing,Denis Villeneuve,Arrival,FALSE
+oscars,2016,89th,Directing,Mel Gibson,Hacksaw Ridge,FALSE
+oscars,2016,89th,Directing,Damien Chazelle,La La Land,FALSE
+oscars,2016,89th,Directing,Kenneth Lonergan,Manchester by the Sea,FALSE
+oscars,2016,89th,Directing,Barry Jenkins,Moonlight,FALSE
+oscars,2016,89th,Best Picture,,Arrival,FALSE
+oscars,2016,89th,Best Picture,,Fences,FALSE
+oscars,2016,89th,Best Picture,,Hacksaw Ridge,FALSE
+oscars,2016,89th,Best Picture,,Hell or High Water,FALSE
+oscars,2016,89th,Best Picture,,Hidden Figures,FALSE
+oscars,2016,89th,Best Picture,,La La Land,FALSE
+oscars,2016,89th,Best Picture,,Lion,FALSE
+oscars,2016,89th,Best Picture,,Manchester by the Sea,FALSE
+oscars,2016,89th,Best Picture,,Moonlight,TRUE
+oscars,2016,89th,Writing (Adapted Screenplay),Eric Heisserer,Arrival,FALSE
+oscars,2016,89th,Writing (Adapted Screenplay),August Wilson,Fences,FALSE
+oscars,2016,89th,Writing (Adapted Screenplay),"Allison Scroeder, Theodore Melfi",Hidden Figures,FALSE
+oscars,2016,89th,Writing (Adapted Screenplay),Luke Davies,Lion,FALSE
+oscars,2016,89th,Writing (Adapted Screenplay),Barry Jenkins,Moonlight,TRUE
+oscars,2016,89th,Writing (Original Screenplay),Taylor Sheridan,Hell or High Water,FALSE
+oscars,2016,89th,Writing (Original Screenplay),Damien Chazelle,La La Land,FALSE
+oscars,2016,89th,Writing (Original Screenplay),Yorgos Lanthimos,The Lobster,FALSE
+oscars,2016,89th,Writing (Original Screenplay),Kenneth Lonergan,Manchester by the Sea,TRUE
+oscars,2016,89th,Writing (Original Screenplay),Mike Mills,20th Century Women,FALSE
+oscars,2017,90th,Actor in a Leading Role ,Timothee Chalamet,Call Me By Your Name,FALSE
+oscars,2017,90th,Actor in a Leading Role ,Daniel Day-Lewis,Phantom Thread,FALSE
+oscars,2017,90th,Actor in a Leading Role ,Daniel Kaluuya,Get Out,FALSE
+oscars,2017,90th,Actor in a Leading Role ,Gary Oldman,Darkest Hour,TRUE
+oscars,2017,90th,Actor in a Leading Role ,Denzel Washington,"Roman J. Israel, Esq.",FALSE
+oscars,2017,90th,Actress in a Leading Role,Frances McDormand,"Three Billboards outside Ebbing, Missouri",TRUE
+oscars,2017,90th,Actress in a Leading Role,Margot Robbie,"I, Tonya",FALSE
+oscars,2017,90th,Actress in a Leading Role,Saoirse Ronan,Lady Bird,FALSE
+oscars,2017,90th,Actress in a Leading Role,Sally Hawkins,The Shape of Water,FALSE
+oscars,2017,90th,Actress in a Leading Role,Meryl Streep,The Post,FALSE
+oscars,2017,90th,Directing,Christopher Nolan,Dunkirk,FALSE
+oscars,2017,90th,Directing,Jordan Peele,Get Out,FALSE
+oscars,2017,90th,Directing,Greta Gerwig,Lady Bird,FALSE
+oscars,2017,90th,Directing,Paul Thomas Anderson,Phantom Thread,FALSE
+oscars,2017,90th,Directing,Guillermo del Toro,The Shape of Water,TRUE
+oscars,2017,90th,Best Picture,,Call Me By Your Name,FALSE
+oscars,2017,90th,Best Picture,,Darkest Hour,FALSE
+oscars,2017,90th,Best Picture,,Dunkirk,FALSE
+oscars,2017,90th,Best Picture,,Get Out,FALSE
+oscars,2017,90th,Best Picture,,Lady Bird,FALSE
+oscars,2017,90th,Best Picture,,Phantom Thread,FALSE
+oscars,2017,90th,Best Picture,,The Post,FALSE
+oscars,2017,90th,Best Picture,,The Shape of Water,TRUE
+oscars,2017,90th,Best Picture,,"Three Billboards outside Ebbing, Missouri",FALSE
+oscars,2017,90th,Writing (Adapted Screenplay),James Ivory,Call Me By Your Name,TRUE
+oscars,2017,90th,Writing (Adapted Screenplay),"Scott Neustadter, Michael H. Weber",The Disaster Artist,FALSE
+oscars,2017,90th,Writing (Adapted Screenplay),"Scott Frank, James Mangold, Michael Green",Logan,FALSE
+oscars,2017,90th,Writing (Adapted Screenplay),Aaron Sorkin,Molly's Game,FALSE
+oscars,2017,90th,Writing (Adapted Screenplay),"Virgil Williams, Dee Rees",Mudbound,FALSE
+oscars,2017,90th,Writing (Original Screenplay),"Emily V. Gordon, Kumail Nanjiani",The Big Sick,FALSE
+oscars,2017,90th,Writing (Original Screenplay),Jordan Peele,Get Out,FALSE
+oscars,2017,90th,Writing (Original Screenplay),Greta Gerwig,Lady Bird,FALSE
+oscars,2017,90th,Writing (Original Screenplay),Guillermo del Toro,The Shape of Water,TRUE
+oscars,2017,90th,Writing (Original Screenplay),Martin McDonagh,"Three Billboards outside Ebbing, Missouri",FALSE
+oscars,2018,91st,Actor in a Leading Role ,Christian Bale,Vice,FALSE
+oscars,2018,91st,Actor in a Leading Role ,Bradley Cooper,A Star Is Born,FALSE
+oscars,2018,91st,Actor in a Leading Role ,Willem Dafoe,At Eternity's Gate,FALSE
+oscars,2018,91st,Actor in a Leading Role ,Rami Malek,Bohemian Rhapsody,TRUE
+oscars,2018,91st,Actor in a Leading Role ,Viggo Mortensen,Green Book,FALSE
+oscars,2018,91st,Actress in a Leading Role,Yalitza Aparicio,Roma,FALSE
+oscars,2018,91st,Actress in a Leading Role,Glenn Close,The Wife,FALSE
+oscars,2018,91st,Actress in a Leading Role,Olivia Colman,The Favourite,TRUE
+oscars,2018,91st,Actress in a Leading Role,Lady Gaga,A Star Is Born,FALSE
+oscars,2018,91st,Actress in a Leading Role,Melissa McCarthy,Can You Ever Forgive Me?,FALSE
+oscars,2018,91st,Directing,Spike Lee,BlacKkKlansman,FALSE
+oscars,2018,91st,Directing,Pawel Pawlikowski,Cold War,FALSE
+oscars,2018,91st,Directing,Yorgos Lanthimos,The Favourite,FALSE
+oscars,2018,91st,Directing,Alfonso Cuaron,Roma,TRUE
+oscars,2018,91st,Directing,Adam McKay,Vice,FALSE
+oscars,2018,91st,Best Picture,,Black Panther,FALSE
+oscars,2018,91st,Best Picture,,BlacKkKlansman,FALSE
+oscars,2018,91st,Best Picture,,Bohemian Rhapsody,FALSE
+oscars,2018,91st,Best Picture,,The Favourite,FALSE
+oscars,2018,91st,Best Picture,,Green Book,TRUE
+oscars,2018,91st,Best Picture,,Roma,FALSE
+oscars,2018,91st,Best Picture,,A Star Is Born,FALSE
+oscars,2018,91st,Best Picture,,Vice,FALSE
+oscars,2018,91st,Writing (Adapted Screenplay),"Joel Coen, Ethan Coen",The Ballad of Buster Scruggs,FALSE
+oscars,2018,91st,Writing (Adapted Screenplay),"Charlie Wachtel, Dadiv Rabinowitz, Kevin WIllmore",BlackKKlansman,TRUE
+oscars,2018,91st,Writing (Adapted Screenplay),"Nicole Holofcener, Jeff Whitty",Can You Ever Forgive Me?,FALSE
+oscars,2018,91st,Writing (Adapted Screenplay),Barry Jenkins,If Beale Street Could Talk,FALSE
+oscars,2018,91st,Writing (Adapted Screenplay),"Eric Roth, Bradley Cooper, Will Fetters",A Star Is Born,FALSE
+oscars,2018,91st,Writing (Original Screenplay),"Deborah Davis, Tony McNamara",The Favourite,FALSE
+oscars,2018,91st,Writing (Original Screenplay),Paul Shrader,First Reformed,FALSE
+oscars,2018,91st,Writing (Original Screenplay),"Nick Vallelonga, Brian Currie, Pete Farrelly",Green Book,TRUE
+oscars,2018,91st,Writing (Original Screenplay),Alfonso Cuaron,Roma,FALSE
+oscars,2018,91st,Writing (Original Screenplay),Adam McKay,Vice,FALSE
+oscars,2019,92nd,Actor in a Leading Role ,Antonio Banderas,Pain and Glory,FALSE
+oscars,2019,92nd,Actor in a Leading Role ,Leonardo DiCaprio,Once upon a Time... in Hollywood,FALSE
+oscars,2019,92nd,Actor in a Leading Role ,Adam Driver,Marriage Story,FALSE
+oscars,2019,92nd,Actor in a Leading Role ,Joaquin Phoenix,Joker,TRUE
+oscars,2019,92nd,Actor in a Leading Role ,Jonathan Pryce,The Two Popes,FALSE
+oscars,2019,92nd,Actress in a Leading Role,Cynthia Erivo,Harriet,FALSE
+oscars,2019,92nd,Actress in a Leading Role,Scarlett Johansson,Marriage Story,FALSE
+oscars,2019,92nd,Actress in a Leading Role,Saoirse Ronan,Little Women,FALSE
+oscars,2019,92nd,Actress in a Leading Role,Charlize Theron,Bombshell,FALSE
+oscars,2019,92nd,Actress in a Leading Role,Renee Zellweger,Judy,TRUE
+oscars,2019,92nd,Directing,Martin Scorsese,The Irishman,FALSE
+oscars,2019,92nd,Directing,Todd Philips,Joker,FALSE
+oscars,2019,92nd,Directing,Sam Mendes,1917,FALSE
+oscars,2019,92nd,Directing,Quentin Tarantino,Once Upon a Time... in Hollywood,FALSE
+oscars,2019,92nd,Directing,Bong Joon Ho,Parasite,TRUE
+oscars,2019,92nd,Best Picture,,Ford v Ferrari,FALSE
+oscars,2019,92nd,Best Picture,,The Irishman,FALSE
+oscars,2019,92nd,Best Picture,,Jojo Rabbit,FALSE
+oscars,2019,92nd,Best Picture,,Joker,FALSE
+oscars,2019,92nd,Best Picture,,Little Women,FALSE
+oscars,2019,92nd,Best Picture,,Marriage Story,FALSE
+oscars,2019,92nd,Best Picture,,1917,FALSE
+oscars,2019,92nd,Best Picture,,Once Upon a Time... in Hollywood,FALSE
+oscars,2019,92nd,Best Picture,,Parasite,TRUE
+oscars,2019,92nd,Writing (Adapted Screenplay),Steven Zaillian,The Irishman,FALSE
+oscars,2019,92nd,Writing (Adapted Screenplay),Taika Waititi,Jojo Rabbit,TRUE
+oscars,2019,92nd,Writing (Adapted Screenplay),"Todd Philips, Scott Silver",Joker,FALSE
+oscars,2019,92nd,Writing (Adapted Screenplay),Greta Gerwig,Little WOmen,FALSE
+oscars,2019,92nd,Writing (Adapted Screenplay),Anthony McCarten,The Two Popes,FALSE
+oscars,2019,92nd,Writing (Original Screenplay),Rian Johnson,Knives Out,FALSE
+oscars,2019,92nd,Writing (Original Screenplay),Noah Baumbavk,Marriage Story,FALSE
+oscars,2019,92nd,Writing (Original Screenplay),"Sam Mendes, Krysty Wilson-Caims",1917,FALSE
+oscars,2019,92nd,Writing (Original Screenplay),Quentin Tarantino,Once Upon a Time... in Hollywood,FALSE
+oscars,2019,92nd,Writing (Original Screenplay),"Bong Joon Ho, Han Jin Won",Parasite,TRUE
+oscars,2020,93rd,Actor in a Leading Role ,Riz Ahmed,Sound of Metal,FALSE
+oscars,2020,93rd,Actor in a Leading Role ,Chadwick Boseman,Ma Rainey's Black Bottom,FALSE
+oscars,2020,93rd,Actor in a Leading Role ,Anthony Hopkins,The Father,TRUE
+oscars,2020,93rd,Actor in a Leading Role ,Gary Oldman,Mank,FALSE
+oscars,2020,93rd,Actor in a Leading Role ,Steven Yeun,Minari,FALSE
+oscars,2020,93rd,Actress in a Leading Role,Viola Davis,Ma Rainey's Black Bottom,FALSE
+oscars,2020,93rd,Actress in a Leading Role,Andra Day,The United States vs Billie Holiday,FALSE
+oscars,2020,93rd,Actress in a Leading Role,Vanessa Kirby,Pieces of a Woman,FALSE
+oscars,2020,93rd,Actress in a Leading Role,Frances McDormand,Nomadland,TRUE
+oscars,2020,93rd,Actress in a Leading Role,Carey Mulligan,Promising Young Woman,FALSE
+oscars,2020,93rd,Directing,Thomas Vinterberg,Another Round,FALSE
+oscars,2020,93rd,Directing,David Fincher,Mank,FALSE
+oscars,2020,93rd,Directing,Lee Isaac Chung,Minari,FALSE
+oscars,2020,93rd,Directing,Chloe Zhao,Nomadland,TRUE
+oscars,2020,93rd,Directing,Emerald Fennell,Promising Young Woman,FALSE
+oscars,2020,93rd,Best Picture,,The Father,FALSE
+oscars,2020,93rd,Best Picture,,Judas and the Black Messiah,FALSE
+oscars,2020,93rd,Best Picture,,Mank,FALSE
+oscars,2020,93rd,Best Picture,,Minari,FALSE
+oscars,2020,93rd,Best Picture,,Nomadland,TRUE
+oscars,2020,93rd,Best Picture,,Promising Young Woman,FALSE
+oscars,2020,93rd,Best Picture,,Sound of Metal,FALSE
+oscars,2020,93rd,Best Picture,,The Trial of the Chicago 7,FALSE
+oscars,2020,93rd,Writing (Adapted Screenplay),Sacha Baron Cohen et al.,Borat Subsequent Moviefilm,FALSE
+oscars,2020,93rd,Writing (Adapted Screenplay),"Christopher Hampton, Florian Zeller",The Father,TRUE
+oscars,2020,93rd,Writing (Adapted Screenplay),Chloe Zhao,Nomadland,FALSE
+oscars,2020,93rd,Writing (Adapted Screenplay),Kemp Powers,One Night in Miami...,FALSE
+oscars,2020,93rd,Writing (Adapted Screenplay),Ramin Bahrani,The White Tiger,FALSE
+oscars,2020,93rd,Writing (Original Screenplay),"Will Berson, Shaka King",Judas and the Black Messiah,FALSE
+oscars,2020,93rd,Writing (Original Screenplay),Lee Isaac Chung,Minari,FALSE
+oscars,2020,93rd,Writing (Original Screenplay),Emerald Fennell,Promising Young Woman,TRUE
+oscars,2020,93rd,Writing (Original Screenplay),"Darius Marder, Abraham Marder",Sound of Metal,FALSE
+oscars,2020,93rd,Writing (Original Screenplay),Aaron Sorkin,The Trial of the Chicago 7,FALSE
+oscars,2021,94th,Actor in a Leading Role ,Javier Bardem,Being the Ricardos,FALSE
+oscars,2021,94th,Actor in a Leading Role ,Benedict Cumberbatch,The Power of the Dog,FALSE
+oscars,2021,94th,Actor in a Leading Role ,Andrew Garfield,"tick, tick... BOOM!",FALSE
+oscars,2021,94th,Actor in a Leading Role ,Will Smith,King Richard,TRUE
+oscars,2021,94th,Actor in a Leading Role ,Denzel Washington,The Tragedy of Macbeth,FALSE
+oscars,2021,94th,Actress in a Leading Role,Jessica Chastain,The Eyes of Tammy Faye,TRUE
+oscars,2021,94th,Actress in a Leading Role,Olivia Colman,The Lost Daughter,FALSE
+oscars,2021,94th,Actress in a Leading Role,Penelope Cruz,Parallel Mothers,FALSE
+oscars,2021,94th,Actress in a Leading Role,Nicole Kidman,Being the Ricardos,FALSE
+oscars,2021,94th,Actress in a Leading Role,Kristen Stewart,Spencer,FALSE
+oscars,2021,94th,Directing,Kenneth Branagh,Belfast,FALSE
+oscars,2021,94th,Directing,Ryusuke Hamaguchi,Drive My Car,FALSE
+oscars,2021,94th,Directing,Paul Thomas Anderson,Licorice Pizza,FALSE
+oscars,2021,94th,Directing,Jane Campion,The Power of the Dog,TRUE
+oscars,2021,94th,Directing,Steven Spielberg,West Side Story,FALSE
+oscars,2021,94th,Best Picture,,Belfast,FALSE
+oscars,2021,94th,Best Picture,,CODA,TRUE
+oscars,2021,94th,Best Picture,,Don't Look Up,FALSE
+oscars,2021,94th,Best Picture,,Drive My Car,FALSE
+oscars,2021,94th,Best Picture,,Dune,FALSE
+oscars,2021,94th,Best Picture,,King Richard,FALSE
+oscars,2021,94th,Best Picture,,Licorice Pizza,FALSE
+oscars,2021,94th,Best Picture,,Nightmare Alley,FALSE
+oscars,2021,94th,Best Picture,,The Power of the Dog,FALSE
+oscars,2021,94th,Best Picture,,West Side Story,FALSE
+oscars,2021,94th,Writing (Adapted Screenplay),Sian Heder,CODA,TRUE
+oscars,2021,94th,Writing (Adapted Screenplay),"Jon Spaihts, Denis Villeneuve, Eric Roth",Dune,FALSE
+oscars,2021,94th,Writing (Adapted Screenplay),Maggie Gyllenhaal,The Lost Daughter,FALSE
+oscars,2021,94th,Writing (Adapted Screenplay),Jane Campion,The Power of the Dog,FALSE
+oscars,2021,94th,Writing (Adapted Screenplay),"Ryusuke Hamaguchi, Takamasa Oe",drive My Car,FALSE
+oscars,2021,94th,Writing (Original Screenplay),Kenneth Branagh,Belfast,FALSE
+oscars,2021,94th,Writing (Original Screenplay),Adam McKay,Don't Look Up,FALSE
+oscars,2021,94th,Writing (Original Screenplay),Zach Baylin ,King Richard,FALSE
+oscars,2021,94th,Writing (Original Screenplay),Paul Thomas Anderson,Licorice Pizza,FALSE
+oscars,2021,94th,Writing (Original Screenplay),"Eskil Vogt, Joachim Trier",The Worst Person in the World,TRUE
+oscars,2022,95th,Actor in a Leading Role ,Austin Butler,Elvis,FALSE
+oscars,2022,95th,Actor in a Leading Role ,Colin Farrell,The Banshees of Inisherin,FALSE
+oscars,2022,95th,Actor in a Leading Role ,Brendan Fraser,The Whale,TRUE
+oscars,2022,95th,Actor in a Leading Role ,Paul Mescal,Aftersun,FALSE
+oscars,2022,95th,Actor in a Leading Role ,Bill Nighy,Living,FALSE
+oscars,2022,95th,Actress in a Leading Role,Cate Blanchett,Tar,FALSE
+oscars,2022,95th,Actress in a Leading Role,Ana de Armas,Blonde,FALSE
+oscars,2022,95th,Actress in a Leading Role,Andrea Riseborough,To Leslie,FALSE
+oscars,2022,95th,Actress in a Leading Role,Michelle Williams,The Fabelmans,FALSE
+oscars,2022,95th,Actress in a Leading Role,Michelle Yeoh,Everything Everywhere All at Once,TRUE
+oscars,2022,95th,Directing,Martin McDonagh,The Banshees of Inisherin,FALSE
+oscars,2022,95th,Directing,"Daniel Kwan, Daniel Scheinert",Everything Everywhere All at Once,TRUE
+oscars,2022,95th,Directing,Steven Spielberg,The Fabelmans,FALSE
+oscars,2022,95th,Directing,Todd Field,Tar,FALSE
+oscars,2022,95th,Directing,Ruben Ostlund,Triangle of Sadness,FALSE
+oscars,2022,95th,Best Picture,,All Quiet on the Western Front,FALSE
+oscars,2022,95th,Best Picture,,Avatar: The Way of Water,FALSE
+oscars,2022,95th,Best Picture,,The Banshees of Inisherin,FALSE
+oscars,2022,95th,Best Picture,,Elvis,FALSE
+oscars,2022,95th,Best Picture,,Everything Everywhere All at Once,TRUE
+oscars,2022,95th,Best Picture,,The Fabelmans,FALSE
+oscars,2022,95th,Best Picture,,Tar,FALSE
+oscars,2022,95th,Best Picture,,Top Gun: Maverick,FALSE
+oscars,2022,95th,Best Picture,,Triangle of Sadness,FALSE
+oscars,2022,95th,Best Picture,,Women Talking,FALSE
+oscars,2022,95th,Writing (Adapted Screenplay),"Edward Berger, Lesley Paterson, Ian Stokell",All Quiet on the Western Front,FALSE
+oscars,2022,95th,Writing (Adapted Screenplay),Rian Johnson,Glass Onion: A Knives Out Mystery,FALSE
+oscars,2022,95th,Writing (Adapted Screenplay),Kazuo Ishiguro,Living,FALSE
+oscars,2022,95th,Writing (Adapted Screenplay),"Ehren Kruger, Eric Watten Singer, Christopher McQuarrie",Top Gun: Maverick,FALSE
+oscars,2022,95th,Writing (Adapted Screenplay),Sarah Polley,Women Talking,TRUE
+oscars,2022,95th,Writing (Original Screenplay),Martin McDonagh,The Banshees of Inisherin,FALSE
+oscars,2022,95th,Writing (Original Screenplay),"Daniel Kwan, Daniel Scheinert",Everything Everywhere All at Once,TRUE
+oscars,2022,95th,Writing (Original Screenplay),"Steven Spielberg, Tony Kushner",The Fabelmans,FALSE
+oscars,2022,95th,Writing (Original Screenplay),Todd Field,Tar,FALSE
+oscars,2022,95th,Writing (Original Screenplay),Ruben Ostlund,Triangle of Sadness,FALSE
+oscars,2023,96th,Actor in a Leading Role ,Bradley Cooper,Maestro,FALSE
+oscars,2023,96th,Actor in a Leading Role ,Colman Domingo,Rustin,FALSE
+oscars,2023,96th,Actor in a Leading Role ,Paul Giamatti,The Holdovers,FALSE
+oscars,2023,96th,Actor in a Leading Role ,Cillian Murphy,Oppenheimer,TRUE
+oscars,2023,96th,Actor in a Leading Role ,Jeffrey Wright,American Fiction,FALSE
+oscars,2023,96th,Actress in a Leading Role,Annette Bening,Nyad,FALSE
+oscars,2023,96th,Actress in a Leading Role,Lily Gladstone,Killers of the Flower Moon,FALSE
+oscars,2023,96th,Actress in a Leading Role,Sandra Huller,Anatomy of a Fall,FALSE
+oscars,2023,96th,Actress in a Leading Role,Carey Mulligan,Maestro,FALSE
+oscars,2023,96th,Actress in a Leading Role,Emma Stone,Poor Things,TRUE
+oscars,2023,96th,Directing,Justin Triet,Anatomy of a Fall,FALSE
+oscars,2023,96th,Directing,Martin Scorsese,Killers of the Flower Moon,FALSE
+oscars,2023,96th,Directing,Christopher Nolan,Oppenheimer,TRUE
+oscars,2023,96th,Directing,Yorgos Lanthimos,Poor Things,FALSE
+oscars,2023,96th,Directing,Jonathan Glazer,The Zone of Interest,FALSE
+oscars,2023,96th,Best Picture,,American Fiction,FALSE
+oscars,2023,96th,Best Picture,,Anatomy of a Fall,FALSE
+oscars,2023,96th,Best Picture,,Barbie,FALSE
+oscars,2023,96th,Best Picture,,The Holdovers,FALSE
+oscars,2023,96th,Best Picture,,Killers of the Flower Moon,FALSE
+oscars,2023,96th,Best Picture,,Maestro,FALSE
+oscars,2023,96th,Best Picture,,Oppenheimer,TRUE
+oscars,2023,96th,Best Picture,,Past Lives,FALSE
+oscars,2023,96th,Best Picture,,Poor Things,FALSE
+oscars,2023,96th,Best Picture,,The Zone of Interest,FALSE
+oscars,2023,96th,Writing (Adapted Screenplay),Cord Jefferson,American Fiction,TRUE
+oscars,2023,96th,Writing (Adapted Screenplay),"Greta Gerwig, Noah Baumbach",Barbie,FALSE
+oscars,2023,96th,Writing (Adapted Screenplay),Christopher Nolan,Oppenheimer,FALSE
+oscars,2023,96th,Writing (Adapted Screenplay),Tony McNamara,Poor Things,FALSE
+oscars,2023,96th,Writing (Adapted Screenplay),Jonathan Glazer,The Zone of Interest,FALSE
+oscars,2023,96th,Writing (Original Screenplay),"Justin Triet, Arthur Harari",Anatomy of a Fall,TRUE
+oscars,2023,96th,Writing (Original Screenplay),David Hemingson,The Holdovers,FALSE
+oscars,2023,96th,Writing (Original Screenplay),"Bradley Cooper, Josh Singer",Maestro,FALSE
+oscars,2023,96th,Writing (Original Screenplay),Samy Burch,May December,FALSE
+oscars,2023,96th,Writing (Original Screenplay),Celine Song,Past Lives,FALSE
+oscars,2024,97th,Actor in a Leading Role ,Adrien Brody,The Brutalist,TRUE
+oscars,2024,97th,Actor in a Leading Role ,Timothee Chalamet,A Complete Unknown,FALSE
+oscars,2024,97th,Actor in a Leading Role ,Colman Domingo,Sing Sing,FALSE
+oscars,2024,97th,Actor in a Leading Role ,Ralph Fiennes,Conclave,FALSE
+oscars,2024,97th,Actor in a Leading Role ,Sebastian Stan,The Apprentice,FALSE
+oscars,2024,97th,Actress in a Leading Role,Cynthia Erivo,Wicked,FALSE
+oscars,2024,97th,Actress in a Leading Role,Karla Sofia Gascon,Emilia Perez,FALSE
+oscars,2024,97th,Actress in a Leading Role,Mikey Madison,Anora,TRUE
+oscars,2024,97th,Actress in a Leading Role,Demi Moore,The Substance,FALSE
+oscars,2024,97th,Actress in a Leading Role,Fernanda Torres,I'm Still Here,FALSE
+oscars,2024,97th,Directing,Sean Baker,Anora,TRUE
+oscars,2024,97th,Directing,Brady Corbet,The Brutalist,FALSE
+oscars,2024,97th,Directing,James Mangold,A Complete Unknown,FALSE
+oscars,2024,97th,Directing,Coralie Fargeat,The Substance,FALSE
+oscars,2024,97th,Directing,Jacques Audiard,Emilia Perez,FALSE
+oscars,2024,97th,Best Picture,,The Brutalist,FALSE
+oscars,2024,97th,Best Picture,,A Complete Unknown,FALSE
+oscars,2024,97th,Best Picture,,Conclave,FALSE
+oscars,2024,97th,Best Picture,,Dune: Part Two,FALSE
+oscars,2024,97th,Best Picture,,Emilia Perez,FALSE
+oscars,2024,97th,Best Picture,,I'm Still Here,FALSE
+oscars,2024,97th,Best Picture,,Nickel Boys,FALSE
+oscars,2024,97th,Best Picture,,The Substance,FALSE
+oscars,2024,97th,Best Picture,,Wicked,FALSE
+oscars,2024,97th,Best Picture,,Anora,TRUE
+oscars,2024,97th,Writing (Adapted Screenplay),"James Mangold, Jay Cocks",A Complete Unknown,FALSE
+oscars,2024,97th,Writing (Adapted Screenplay),Peter Straughan,Conclave,TRUE
+oscars,2024,97th,Writing (Adapted Screenplay),Jacques Audiard et al.,Emilia Perez,FALSE
+oscars,2024,97th,Writing (Adapted Screenplay),"RaMell Ross, Joslyn Barnes",Nickel Boys,FALSE
+oscars,2024,97th,Writing (Adapted Screenplay),"Clint Bentley, Greg Kwedar et al",Sing Sing,FALSE
+oscars,2024,97th,Writing (Original Screenplay),Sean Baker,Anora,TRUE
+oscars,2024,97th,Writing (Original Screenplay),"Brady Corbet, Mona Fastvoid",The Brutalist,FALSE
+oscars,2024,97th,Writing (Original Screenplay),Jesse Eisenberg,A Real Pain,FALSE
+oscars,2024,97th,Writing (Original Screenplay),"Moritz Binder, Tim Fehlbaum",September 5,FALSE
+oscars,2024,97th,Writing (Original Screenplay),Coralie Fargeat,The Substance,FALSE
+oscars,2025,97th,Actor in a Leading Role ,Timothee Chalamet,Marty Supreme,FALSE
+oscars,2025,97th,Actor in a Leading Role ,Leonardo DiCaprio,One Battle After Another,FALSE
+oscars,2025,97th,Actor in a Leading Role ,Ethan Hawke,Blue Moon,FALSE
+oscars,2025,97th,Actor in a Leading Role ,Michael B. Jordan,Sinners,TRUE
+oscars,2025,97th,Actor in a Leading Role ,Wagner Moura,The Secret Agent,FALSE
+oscars,2025,97th,Actress in a Leading Role,Jessie Buckley,Hamnet,TRUE
+oscars,2025,97th,Actress in a Leading Role,Rose Byrne,If I Had Legs I'd Kick You,FALSE
+oscars,2025,97th,Actress in a Leading Role,Kate Hudson,Song Sung Blue,FALSE
+oscars,2025,97th,Actress in a Leading Role,Renate Reinsve,Sentimental Value,FALSE
+oscars,2025,97th,Actress in a Leading Role,Emma Stone,Bugonia,FALSE
+oscars,2025,97th,Directing,Chloe Zhao,Hamnet,FALSE
+oscars,2025,97th,Directing,Josh Safdie,Marty Supreme,FALSE
+oscars,2025,97th,Directing,Paul Thomas Anderson,One Battle After Another,TRUE
+oscars,2025,97th,Directing,Joachim Trier,Sentimental Value,FALSE
+oscars,2025,97th,Directing,Ryan Coogler,Sinners,FALSE
+oscars,2025,97th,Best Picture,,Bugonia,FALSE
+oscars,2025,97th,Best Picture,,F1,FALSE
+oscars,2025,97th,Best Picture,,Frankenstein,FALSE
+oscars,2025,97th,Best Picture,,Hamnet,FALSE
+oscars,2025,97th,Best Picture,,Marty Supreme,FALSE
+oscars,2025,97th,Best Picture,,One Battle After Another,TRUE
+oscars,2025,97th,Best Picture,,The Secret Agent,FALSE
+oscars,2025,97th,Best Picture,,Sentimental Value,FALSE
+oscars,2025,97th,Best Picture,,Sinners,FALSE
+oscars,2025,97th,Best Picture,,Train Dreams,FALSE
+oscars,2025,97th,Writing (Adapted Screenplay),Will Tracy,Bugonia,FALSE
+oscars,2025,97th,Writing (Adapted Screenplay),Guillermo del Toro,Frankenstein,FALSE
+oscars,2025,97th,Writing (Adapted Screenplay),"Chloe Zhao, Maggie O'Farrell",Hamnet,FALSE
+oscars,2025,97th,Writing (Adapted Screenplay),Paul Thomas Anderson,One Battle After Another,TRUE
+oscars,2025,97th,Writing (Adapted Screenplay),"Clink Bentley, Greg Kwedar",Train Dreams,FALSE
+oscars,2025,97th,Writing (Original Screenplay),Robert Kaplow,Blue Moon,FALSE
+oscars,2025,97th,Writing (Original Screenplay),Jafar Panahi,It Was Just an Accident,FALSE
+oscars,2025,97th,Writing (Original Screenplay),"Ronald Bronstein, Josh Safdie",Marty Supreme,FALSE
+oscars,2025,97th,Writing (Original Screenplay),"Eskil Vogt, Joachim Trier",Sentimental Value,FALSE
+oscars,2025,97th,Writing (Original Screenplay),Ryan Coogler,Sinners,TRUE
